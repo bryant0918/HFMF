@@ -29,7 +29,7 @@ The model architecture comprises two main modules:
 - **Explainability**: Grad-CAM heatmaps demonstrate accurate localization of manipulated regions.  
 - **Ensemble Performance**: Outperforms baseline models in detecting deepfakes while maintaining computational efficiency.
 
-  <img src="https://github.com/user-attachments/assets/6d27282f-bc48-42b1-bb19-ebfd1ae14b29" alt="Comparison" width="600" />
+  &nbsp &nbsp <img src="https://github.com/user-attachments/assets/6d27282f-bc48-42b1-bb19-ebfd1ae14b29" alt="Comparison" width="600" />
 
 ## Data Preparation as follows:
 ```bash
