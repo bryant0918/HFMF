@@ -1,4 +1,4 @@
-# Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection
+# HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection
 ### Codebase is only adapted to WildRF version.
 
 ## Overview  
@@ -46,9 +46,12 @@ gdown --id 1GpGvkxQ7leXqCnfnEAsgY_DXFnJwIbO4 -c
 ```
 
 ## Comparison with SOTA on WildRF  
-  
-  ![results](https://github.com/user-attachments/assets/14054c61-1d7b-4217-a9dc-fd4c798cda95)
 
+![Screenshot 2025-01-05 at 12 02 34 PM](https://github.com/user-attachments/assets/773ad989-28ae-4f65-9a47-84a65be1dc88)
+
+
+## Ablation on WildRF  
+![Screenshot 2025-01-05 at 12 02 56 PM](https://github.com/user-attachments/assets/3a7e2c53-1205-4afc-b0f2-01b6b4c5e1a0)
 
 
 ## Installation  
