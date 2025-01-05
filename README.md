@@ -1,4 +1,5 @@
 # HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection
+## # Accepted at WACV 2025 Workshop - AI4MFDD, Tucson, Arizona (US)
 ### Codebase is only adapted to WildRF version.
 
 ## Overview  
