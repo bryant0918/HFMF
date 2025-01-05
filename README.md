@@ -20,7 +20,7 @@ The model architecture comprises two main modules:
    - Multi-stream feature extraction using Yolov8, Sobel filters, and XceptionNet.  
    - Grad-CAM for visualization and explainability.
   
-   <img src="https://github.com/user-attachments/assets/cabaa9ae-4f42-4c98-a575-d3294011ddd5" alt="Ensemble" width="500" />
+    &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;<img src="https://github.com/user-attachments/assets/cabaa9ae-4f42-4c98-a575-d3294011ddd5" alt="Ensemble" width="500" />
 
 
 ## Results  
@@ -76,6 +76,7 @@ Follow the steps below to run the full pipeline and get the final output for HFM
 ## Step 3: Calibrate the Logits
 
 - Once the logits are obtained, calibrate them using the `calibration.py` script to adjust the outputs for the final model.
+![Screenshot 2025-01-05 at 12 02 47 PM](https://github.com/user-attachments/assets/930c4268-2ca4-4e19-a2ba-debcc5a63257)
 
 ## Step 4: Integrate with Module 2
 
@@ -84,6 +85,9 @@ Follow the steps below to run the full pipeline and get the final output for HFM
   - Yolov8
   - Sobel filter
   - Grad Cam (Explainable AI)
+![Screenshot 2025-01-05 at 12 03 15 PM](https://github.com/user-attachments/assets/f172aa36-fd26-43ca-b021-a81fddc4fbfd)
+
+
     
 ## Step 5: Make Ensemble
 - Use `Ensemble.ipynb` to get the final ensemble of module 1 and 2.
