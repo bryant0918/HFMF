@@ -58,7 +58,7 @@ gdown --id 1GpGvkxQ7leXqCnfnEAsgY_DXFnJwIbO4 -c
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/anantmehta33/Hierarchical-Multi-Stream-Fusion-for-Deepfake-Detection.git](https://github.com/taco-group/HFMF.git)
+   git clone https://github.com/taco-group/HFMF.git
    cd Hierarchical-Multi-Stream-Fusion-for-Deepfake-Detection
 2. Running Instructions:
 
