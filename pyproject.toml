@@ -1,0 +1,24 @@
+[project]
+name = "hfmf"
+version = "0.1.0"
+description = "Deepfake Detection"
+authors = [
+    {name = "Bryant McArthur",email = "bryant0918@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas (>=2.2.3,<3.0.0)",
+    "torch (>=2.5.1,<3.0.0)",
+    "torchvision (>=0.20.1,<0.21.0)",
+    "opencv-python (>=4.11.0.86,<5.0.0.0)",
+    "ultralytics (>=8.3.68,<9.0.0)",
+    "pretrainedmodels (>=0.7.4,<0.8.0)",
+    "mediapipe (>=0.10.20,<0.11.0)",
+    "scikit-learn (>=1.6.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
